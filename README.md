@@ -9,7 +9,9 @@
    Friendly .
  </strong>
  </center>
- 
+
+ ## Live Demo :
+ #### https://ghsjulian.github.io/e-Commerce/
  
  ### Demo & Screenshots :
  
